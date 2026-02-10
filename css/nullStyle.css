@@ -28,7 +28,7 @@ html, body {
   width: 100%;
   margin: 0 auto;
   overflow: hidden;
-  background: radial-gradient(100.31% 50.34% at 50.11% 57.09%, #fff 0%, #fff 50%, #9cb4cd 100%);
+  background-color: #fff;
 }
 
 /* 3) Контентні елементи */
