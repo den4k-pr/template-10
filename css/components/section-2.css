@@ -143,6 +143,18 @@
     max-width: 200px;
 }
 
+.step {
+    position: relative;
+    overflow: hidden;
+    opacity: 0;
+    will-change: opacity;
+    transition: opacity 0.4s ease 0.3s;
+}
+
+.step.is-visible {
+    opacity: 1;
+}
+
 
 @media(max-width: 450px){
     .section-2{
