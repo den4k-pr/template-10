@@ -265,6 +265,7 @@
     width: 300px; /* Налаштуй ширину під себе */
     height: auto;
     object-fit: cover;
+    filter: blur(0.5px);
     flex-shrink: 0;
 }
 
