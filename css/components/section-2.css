@@ -180,6 +180,6 @@
 
 @media(max-width: 360px){
     .section-2{
-        transform: scale(0.75) translateX(-50px) translateY(-140px);
+        transform: scale(0.80) translateX(-50px) translateY(-140px);
     }
 }
